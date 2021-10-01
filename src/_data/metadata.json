@@ -2,7 +2,7 @@
 	"name": "kailoon",
 	"url": "https://kailoon.com/",
 	"feed": {
-		"subtitle": "The personal and professional website of designer & developer, kailoon.",
+		"subtitle": "The personal and professional website of designer & developer, DK.",
 		"filename": "feed.xml",
 		"path": "/feed/feed.xml",
 		"id": "https://kailoon.com/"
